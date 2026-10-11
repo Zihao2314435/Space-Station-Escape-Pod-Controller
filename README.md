@@ -25,7 +25,7 @@ This project implements an 8-state escape pod launch controller using flip-flops
 
 The physical circuit was built and tested on a breadboard. The demonstration shows the state LEDs and status outputs responding to the clock and emergency input.
 
-**Video demonstration:** [Insert video link]
+**Video demonstration:** [Circuit Behavior.mp4]
 
 ## Technologies and Concepts
 
